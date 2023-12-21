@@ -1,4 +1,4 @@
 # demo
 This is my first Git Repository
 <br>
-Author - Talika Bajaj
+Author - Talika Bajaj (Talika)
